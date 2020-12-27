@@ -1,0 +1,5 @@
+https://code.jquery.com/
+https://cdnjs.com/libraries/waypoints
+https://cdnjs.com/libraries/OwlCarousel2
+https://cdnjs.com/libraries/typed.js
+https://fontawesome.com/
